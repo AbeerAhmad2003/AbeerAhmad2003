@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abeer Ahmad</h1>
 
 <h3 align="center">
-Computer Engineering Student • .NET Backend Developer
+Computer Engineering  • .NET Backend Developer
 </h3>
 
 <p align="center">
